@@ -3,6 +3,7 @@ import config from 'config'
 
 import app from 'app'
 import * as sockets from 'bin/sockets'
+var Bear = require('./app/models/bear')
 
 const server = http.Server(app)
 const port = process.env.PORT || config.Api.port
