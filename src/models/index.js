@@ -1,2 +1,2 @@
-export User from 'models/user'
-export BearSchema from 'models/user'
+// export User from 'models/user'
+export Bear from 'models/BearSchema'

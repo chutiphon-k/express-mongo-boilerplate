@@ -1,8 +1,8 @@
-import bookshelf from 'root/bookshelf'
+// import bookshelf from 'root/bookshelf'
 
-const User = bookshelf.Model.extend({
-	tableName: 'users',
-	hasTimestamps: true
-})
+// const User = bookshelf.Model.extend({
+// 	tableName: 'users',
+// 	hasTimestamps: true
+// })
 
-export default User
+// export default User
